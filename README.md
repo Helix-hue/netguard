@@ -110,7 +110,7 @@ ngrok http 5000
 - Developer: Joshua Diamond Daniel
 - Institution: Veritas University Abuja
 - Project: CSC 490 Final Year Project
-- Supervisor: Professor Victor Omopariola
+- Supervisor: Mr Victor Omopariola
 - Session: 2024/2025
 
 ## License
